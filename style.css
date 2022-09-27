@@ -1,0 +1,110 @@
+body{
+    background-color: rgba(247, 240, 240, 0.7);
+    background-image: cover;
+    
+    
+}
+
+.font-primary{
+    color: #00abae; 
+} 
+.title-icon{
+    font-size:20px;
+    font-weight: bold;
+    color: black;
+} 
+p {
+    font-size: 14px;;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom:20px;
+}
+a.font-black{
+    color: black !important;
+}
+
+/******
+
+ABOUT
+****/
+#about{
+    margin: 60px auto;
+    max-width: 500px;
+    text-align: center;
+    color: black;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+.email{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; ;
+}
+#about img{
+    border-radius: 50%;
+    width: 120px;
+    margin-bottom: 10px;
+}
+#about .name{
+    font-size: 20px;
+}
+#about .vocation{
+    font-size: 17px;
+    color: rgb(74, 135, 232);
+    margin-bottom: 10px;
+
+}
+#about .skills{
+    font-size:15px;
+    color: #00abae;
+    margin-bottom: 10px;
+}
+#about .email{
+    margin-top: 14px;
+    font-size:14px;
+}
+#about .icons{
+    margin-top: 20px;
+    font-size: 30px;
+}
+#about .email a{
+    color:blue;
+    
+}
+
+#about p{
+    text-align: justify;
+}
+#about .image{
+    height:15px;
+    width:15px;
+    
+
+}
+
+
+/*****************
+PROJECT 
+****************/
+
+#projects{
+    margin:60px auto;
+    width:80%; 
+}
+#projects h2{
+    text-align: center;
+    color: black;
+
+}
+#projects card img{
+    width:100%;
+     
+}
+#project .card-title{
+    font-weight: bold;
+    color:black;
+} 
+
+
